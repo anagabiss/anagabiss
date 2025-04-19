@@ -7,6 +7,7 @@
 
 <div style="display: inline_block">
   <br>
+  
   <img align="center" alt="Ana-HTML" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-JS" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -15,10 +16,14 @@
 <div/>
 
 ##
-<div> 
-  <a href="https://https://www.linkedin.com/in/ana-gabriela-soares-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:anagabiss16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/https://www.instagram.com/dev.anagabis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+[![linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=logo-do-linkedin)](https://www.linkedin.com/in/ana-gabriela-soares-da-silva/)
+[![instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-F25278?style=for-the-badge&logo=logo-do-instagram)](https://www.instagram.com/dev.anagabis/)
+[![phone](https://custom-icon-badges.demolab.com/badge/-whatsapp-palegreenn?style=for-the-badge&logo=logo-do-whatsapp)](https://wa.me/5561996168545)
+[![email](https://custom-icon-badges.demolab.com/badge/-anagabiss16@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white)]()
+[![location](https://custom-icon-badges.demolab.com/badge/Brasília-Brazil-green?style=for-the-badge&logo=location&logoColor=white)]()
+
+  
   
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anagabiss/anagabiss/output/github-contribution-grid-snake-dark.svg">
