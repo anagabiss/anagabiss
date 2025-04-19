@@ -21,7 +21,7 @@
 [![instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-F25278?style=for-the-badge&logo=logo-do-instagram)](https://www.instagram.com/dev.anagabis/)
 [![phone](https://custom-icon-badges.demolab.com/badge/-whatsapp-palegreenn?style=for-the-badge&logo=logo-do-whatsapp)](https://wa.me/5561996168545)
 [![email](https://custom-icon-badges.demolab.com/badge/-anagabiss16@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white)]()
-[![location](https://custom-icon-badges.demolab.com/badge/Brasília-Brazil-green?style=for-the-badge&logo=location&logoColor=white)]()
+[![location](https://custom-icon-badges.demolab.com/badge/Brazil-green?style=for-the-badge&logo=location&logoColor=white)]()
 
   
   
