@@ -1,7 +1,7 @@
 ## Olá, Eu sou a Ana Gabi  👩🏽‍💻
 **`Software Developer`**
 
-Me chamo Ana Gabriela, tenho 19 anos e moro atualmente em Brasília, DF. Atualmente, estou no 3º período do curso de Análise e Desenvolvimento de Sistemas, onde eu o faço na Unversidade Católica de Brasilía (UCB) e também estou no último semestre no curso Técnico Informática. pela Escola Técnica de Ceilândia (ETC) . Durante minha trajetória acadêmica, participei ativamente no desenvolvimento de sistemas completos, adquirindo experiência em diversas áreas do desenvolvimento web.
+Me chamo Ana Gabriela, tenho 19 anos e moro atualmente em Brasília, DF. Atualmente, estou no 3º período do curso de Análise e Desenvolvimento de Sistemas, onde eu o faço na Universidade Católica de Brasília (UCB) e também estou no último semestre no curso Técnico Informática. pela Escola Técnica de Ceilândia (ETC) . Durante minha trajetória acadêmica, participei ativamente no desenvolvimento de sistemas completos, adquirindo experiência em diversas áreas do desenvolvimento web.
 
 
 ### 💻 Linguagens e Tecnologias
